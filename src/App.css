@@ -50,3 +50,9 @@ nav {
   height: 100%;
   text-align: center;
 }
+
+.home__container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
