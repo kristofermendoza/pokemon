@@ -18,7 +18,7 @@ const Nav = () => {
           </ul>
         </div>
         <div className="sm__container-2">
-          <input type="search" placeholder="Search for Pokemon here!" />
+          <input className="searchbar" type="search" placeholder="Search for Pokemon here!" />
         </div>
       </div>
     </nav>
